@@ -1,0 +1,79 @@
+[
+    {
+      "_id": "r1",
+      "title": "Chicken Katsu",
+      "img": "https://example.com/chicken-katsu.jpg",
+      "chefName": "Sara",
+      "chefImg": "https://example.com/sara.jpg",
+      "chefExperience": "15 yrs",
+      "likes": 250,
+      "description": "Crispy chicken katsu with tangy sauce.",
+      "numRecipes": 50
+    },
+    {
+      "_id": "c9",
+      "title": "Carbonara",
+      "img": "https://example.com/spaghetti-carbonara.jpg",
+      "chefName": "Marco",
+      "chefImg": "https://example.com/marco.jpg",
+      "chefExperience": "20 yrs",
+      "likes": 400,
+      "description": "Classic spaghetti with creamy egg sauce and bacon.",
+      "numRecipes": 75
+    },
+    {
+      "_id": "d2",
+      "title": "Beef Stew",
+      "img": "https://example.com/beef-stew.jpg",
+      "chefName": "Jamie",
+      "chefImg": "https://example.com/jamie.jpg",
+      "chefExperience": "25 yrs",
+      "likes": 300,
+      "description": "Hearty beef stew with root vegetables and herbs.",
+      "numRecipes": 60
+    },
+    {
+      "_id": "p7",
+      "title": "Margherita Pizza",
+      "img": "https://example.com/pizza-margherita.jpg",
+      "chefName": "Antonio",
+      "chefImg": "https://example.com/antonio.jpg",
+      "chefExperience": "30 yrs",
+      "likes": 500,
+      "description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+      "numRecipes": 80
+    },
+    {
+      "_id": "s3",
+      "title": "Salmon Teriyaki",
+      "img": "https://example.com/salmon-teriyaki.jpg",
+      "chefName": "Yuko",
+      "chefImg": "https://example.com/yuko.jpg",
+      "chefExperience": "10 yrs",
+      "likes": 200,
+      "description": "Grilled salmon with teriyaki sauce.",
+      "numRecipes": 40
+    },
+    {
+      "_id": "t8",
+      "title": "Tomato Soup",
+      "img": "https://example.com/tomato-soup.jpg",
+      "chefName": "Julia",
+      "chefImg": "https://example.com/julia.jpg",
+      "chefExperience": "5 yrs",
+      "likes": 150,
+      "description": "Creamy tomato soup with fresh basil.",
+      "numRecipes": 30
+    },
+    {
+      "_id": "b4",
+      "title": "Blueberry Pancakes",
+      "img": "https://example.com/blueberry-pancakes.jpg",
+      "chefName": "Mark",
+      "chefImg": "https://example.com/mark.jpg",
+      "chefExperience": "2 yrs",
+      "likes": 100,
+      "description": "Fluffy pancakes with blueberries.",
+      "numRecipes": 20
+    }
+]
