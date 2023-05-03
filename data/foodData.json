@@ -4,6 +4,13 @@
       "title": "BENGALI ROSHOMALI",
       "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ras-Malai.jpg",
       "chefName": "Kashem Natori",
+      "ingredients": {
+        "ingredient1": "Milk",
+        "ingredient2": "Suger",
+        "ingredient3": "Water",
+        "ingredient4": "Yogurt",
+        "ingredient5": "Ice"
+      },
       "chefImg": "https://img001.prntscr.com/file/img001/pWb1E_SNSS6JzPWgpEWXkg.jpg",
       "chefExperience": "15 yrs",
       "likes": 250,
@@ -13,6 +20,13 @@
     {
       "_id": "c9",
       "title": "BENGALI KALO JAM",
+      "ingredients": {
+        "ingredient1": "Milk",
+        "ingredient2": "Water",
+        "ingredient3": "Suger",
+        "ingredient4": "Semolina",
+        "ingredient5": "Nutmeg"
+      },
       "img": "https://static.toiimg.com/thumb/53284860.cms?width=1200&height=900",
       "chefName": "Joshim Hawladar",
       "chefImg": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
@@ -24,6 +38,13 @@
     {
       "_id": "d2",
       "title": "BENGALI FISH CURRY",
+      "ingredients": {
+        "ingredient1": "Fish",
+        "ingredient2": "Sorisa",
+        "ingredient3": "Oil",
+        "ingredient4": "Onion",
+        "ingredient5": "Water"
+      },
       "img": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
       "chefName": "Jamila Ansari",
       "chefImg": "https://st2.depositphotos.com/1518767/11292/i/450/depositphotos_112927756-stock-photo-happy-chef-making-ok-sign.jpg",
@@ -37,6 +58,13 @@
       "title": "BENGALI MUTTON CURRY",
       "img": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/pal.rini1-gmail.com/Mangsher_Jhol_Bengali_Style_Mutton_Curry.jpg",
       "chefName": "Khoibor Saha",
+      "ingredients": {
+        "ingredient1": "Mutton",
+        "ingredient2": "Dry Chili",
+        "ingredient3": "Potato",
+        "ingredient4": "Onion",
+        "ingredient5": "Oil"
+      },
       "chefImg": "https://panlasangpinoy.com/wp-content/uploads/2016/05/what-is-a-chef-de-cuisiine.jpg",
       "chefExperience": "30 yrs",
       "likes": 500,
@@ -46,6 +74,13 @@
     {
       "_id": "s3",
       "title": "BENGALI ILISH BHAJA",
+      "ingredients": {
+        "ingredient1": "Ilish Fish",
+        "ingredient2": "Dry Chili",
+        "ingredient3": "Sorisa",
+        "ingredient4": "Onion",
+        "ingredient5": "Oil"
+      },
       "img": "https://images.squarespace-cdn.com/content/v1/5ea5f3913b0ccf06d0ec2563/1650301004598-0XTYSZ156CN76G7BBCCF/TSO_Ilish+Bhaja_4x3.jpg",
       "chefName": "Mopela Khatun",
       "chefImg": "https://hendi.xcdn.nl/RM700,700/-/560044_12-2021-aj.jpg",
@@ -57,6 +92,13 @@
     {
       "_id": "t8",
       "title": "BENGALI MOONG DAL",
+      "ingredients": {
+        "ingredient1": "Dal",
+        "ingredient2": "Dry Chili",
+        "ingredient3": "Potato",
+        "ingredient4": "Onion",
+        "ingredient5": "Oil"
+      },
       "img": "https://www.scratchingcanvas.com/wp-content/uploads/2018/03/Tetor-Dal.2.jpg",
       "chefName": "Kolaboti Pepe Khatun",
       "chefImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeiT9t1HxkG1exALnJ3fZTGfTzgtBphb8b4tYtvitk_YoEMOLZaQPEQM1ZQXAw2AMmSU&usqp=CAU",
@@ -68,6 +110,13 @@
     {
       "_id": "b4",
       "title": "BENGALI MATAR GHUGNI",
+      "ingredients": {
+        "ingredient1": "Matar",
+        "ingredient2": "Dry Chili",
+        "ingredient3": "Potato",
+        "ingredient4": "Onion",
+        "ingredient5": "Oil"
+      },
       "img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/03/Ghugni-recipe.jpg",
       "chefName": "Kutkuti Begom",
       "chefImg": "https://thumbs.dreamstime.com/b/female-chef-kitchen-portrait-smiling-hands-crossed-33838375.jpg",
