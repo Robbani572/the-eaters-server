@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "features": [
+        "Access to gym facilities",
+        "Locker rental"
+      ],
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "features": [
+        "Access to gym facilities",
+        "Locker rental",
+        "Group fitness classes"
+      ],
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "features": [
+        "Access to gym facilities",
+        "Locker rental",
+        "Group fitness classes",
+        "Personal training sessions"
+      ],
+      "price": 79.99
+    }
+  ]
